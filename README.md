@@ -1,1 +1,1 @@
-# Turkce_dogal_dil_isleme-_icin_kutuphane_olusturulmasi
+# Turkce_dogal_dil_isleme_icin_kutuphane_olusturulmasi
